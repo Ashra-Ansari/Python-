@@ -1,0 +1,10 @@
+name = "silicon valley"
+print(len(name))
+print(name.endswith("iosis"))
+print(name.endswith("egy"))
+print(name.count("c"))
+print(name.capitalize())
+print(name.startswith("pneum"))
+print(name.lower())
+print(name.upper())
+print(name.replace("valley","Jubliee"))
