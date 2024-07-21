@@ -1,6 +1,6 @@
 # Q1
 # name = input("Enter your name :")
-# print(f"Good Afternoon {name} from CodeTech Company")
+# print(f"Good Afternoon {name} from CodeTech Company") formatted string
 
 # Q2
 # letter = '''Dear <|Name|>,
